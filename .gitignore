@@ -1,0 +1,10 @@
+*.exe
+*.o
+tut
+roots
+.vscode
+new
+sub.sublime-workspace
+sublime.m
+Untitled1.ads
+C.json
